@@ -113,4 +113,4 @@ print(f"The factorial of {number} is {result}")
 
 ### License
 
-Hey is being licensed under the [MIT License](https://github.com/AvaterClasher/eli/blob/main/LICENSE).
+Eli is being licensed under the [MIT License](https://github.com/AvaterClasher/eli/blob/main/LICENSE).
