@@ -5,6 +5,7 @@
 > :package: - Check out <a href="https://pypi.org/project/eli-pa">Eli on PyPI (PIP) </a>
 
 Eli is a CLI-based Personal AI assistant that is powered by the GPT-3 / GPT-4 versions supported by [MindsDB](https://mindsdb.com).
+Made especially for terminal users like Arch-ers [pun intended] . Btw this application was written in Arch Linux.
 
 ### Installation
 
