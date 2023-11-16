@@ -1,4 +1,4 @@
-## Eli - Your AI-powered Personal Coding Assistant
+## ELI - Your AI-powered Personal Coding Assistant
 
 > :warning: - You need a OpenAI auth token to make Eli work. You can find more here [OpenAI](https://openai.com/pricing)
 
